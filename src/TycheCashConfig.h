@@ -178,6 +178,7 @@ const std::initializer_list<CheckpointData> CHECKPOINTS = {
   { 213683, "3ab0fd4e9ace15ccefdd38235560863d97232aa4a5c0bfe4b90ac530ac9a00a5" },
   { 216956, "1a70bfaf5a4df7189b1f9f05e2c714cd0d6b4131d466713ab891d2af8d052b10" },
   { 217886, "fcf4e41d80b5cdc1ece079d7ac80586d4baf5dd45820b354b22b0ed979f0bcca" },
+  { 226100, "ed34cb076fbc8904c24547a6a448952bbe5b3c3badf28fb2c6c27d39eee5016f" },
   { 226110, "9b2babebb167ded8200f64bfa2af7523295eec81fca71926d15eea653e2b6f4d" },
 };
 
